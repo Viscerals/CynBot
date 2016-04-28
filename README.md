@@ -1,3 +1,5 @@
+#CynBot List Of Commands  
+### Administration  
 Command and aliases | Description | Usage
 ----------------|--------------|-------
 `.greet`  |  Enables or Disables anouncements on the current channel when someone joins the server.
