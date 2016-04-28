@@ -57,7 +57,7 @@ Command and aliases | Description | Usage
 `.die`, `.graceful`  |  Shuts the bot down and notifies users about the restart. **Owner Only!**
 `.clr`  |  Clears some of CynBot's messages from the current channel. If given a user, will clear the user's messages from the current channel (**Owner Only!**)  |  .clr @X
 `.newname`, `.setname`  |  Give the bot a new name. **Owner Only!**
-`.newavatar`, `.setavatar`  |  Sets a new avatar image for the CynBotBot. **Owner Only!**
+`.newavatar`, `.setavatar`  |  Sets a new avatar image for the CynBot. **Owner Only!**
 `.setgame`  |  Sets the bots game. **Owner Only!**
 `.checkmyperms`  |  Checks your userspecific permissions on this channel.
 `.commsuser`  |  Sets a user for through-bot communication. Only works if server is set. Resets commschannel. **Owner Only!**
@@ -131,7 +131,7 @@ Command and aliases | Description | Usage
 `...`  |  Shows a random quote with a specified name. |  .. abc
 `@BotName copyme`, `@BotName cm`  |  CynBot starts copying everything you say. Disable with cs
 `@BotName cs`, `@BotName copystop`  |  CynBot stops copying you
-`@BotName req`, `@BotName request`  |  Requests a feature for CynBot. |  @CynBotBot req new_feature
+`@BotName req`, `@BotName request`  |  Requests a feature for CynBot. |  @CynBot req new_feature
 `@BotName lr`  |  PMs the user all current CynBot requests.
 `@BotName dr`  |  Deletes a request. **Owner Only!**
 `@BotName rr`  |  Resolves a request. **Owner Only!**
@@ -139,19 +139,19 @@ Command and aliases | Description | Usage
 `@BotName die`  |  Works only for the owner. Shuts the bot down.
 `@BotName do you love me`  |  Replies with positive answer only to the bot owner.
 `@BotName how are you`, `@BotName how are you?`  |  Replies positive only if bot owner is online.
-`@BotName insult`  |  Insults @X person. |  @CynBotBot insult @X.
-`@BotName praise`  |  Praises @X person. |  @CynBotBot praise @X.
+`@BotName insult`  |  Insults @X person. |  @CynBot insult @X.
+`@BotName praise`  |  Praises @X person. |  @CynBot praise @X.
 `@BotName pat`  |  Pat someone ^_^
 `@BotName cry`  |  Tell CynBot to cry. You are a heartless monster if you use this command.
 `@BotName disguise`  |  Tell CynBot to disguise herself.
 `@BotName are you real`  |  Useless.
 `@BotName are you there`, `@BotName !`, `@BotName ?`  |  Checks if CynBot is operational.
 `@BotName draw`  |  CynBot instructs you to type $draw. Gambling functions start with $
-`@BotName fire`  |  Shows a unicode fire message. Optional parameter [x] tells her how many times to repeat the fire. |  @CynBotBot fire [x]
-`@BotName rip`  |  Shows a grave image of someone with a start year |  @CynBotBot rip @Someone 2000
+`@BotName fire`  |  Shows a unicode fire message. Optional parameter [x] tells her how many times to repeat the fire. |  @CynBot fire [x]
+`@BotName rip`  |  Shows a grave image of someone with a start year |  @CynBot rip @Someone 2000
 `@BotName slm`  |  Shows the message where you were last mentioned in this channel (checks last 10k messages)
-`@BotName bb`  |  Says bye to someone. |  @CynBotBot bb @X
-`@BotName call`  |  Useless. Writes calling @X to chat. |  @CynBotBot call @X 
+`@BotName bb`  |  Says bye to someone. |  @CynBot bb @X
+`@BotName call`  |  Useless. Writes calling @X to chat. |  @CynBot call @X 
 `@BotName hide`  |  Hides CynBot in plain sight!11!!
 `@BotName unhide`  |  Unhides CynBot in plain sight!1!!1
 `@BotName dump`  |  Dumps all of the invites it can to dump.txt.** Owner Only.**
